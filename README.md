@@ -2,7 +2,7 @@
 
 This is my new project.
 
-author: Alice
+author: Eithar
 
 Below is the main function of the project: 
 
