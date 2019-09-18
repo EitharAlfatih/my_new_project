@@ -3,6 +3,7 @@
 This is my new project.
 
 author: Eithar
+author: Elbasheer
 
 Below is the main function of the project: 
 
